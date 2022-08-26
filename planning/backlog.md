@@ -1,30 +1,55 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Portfolio page
 
-## Must-Haves
+### Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user I want to see the title portfolio on the top left of the page
+  - _There's John's name under the portfolio title_
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+### Should-Haves
 
-## Should-Haves
+- [ ] As a user I want to see the Navbar on the top right of the page
+  - _There's a navbar bar to navigate to the three pages_
 
-> these will complete the user experience, but are not necessary
+### Could-Haves
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the introduction about John and his profession.
+  - _There's John career picture central-right of the page_
 
-## Could-Haves
+## About page
 
-> would be really cool ... if there's time
+### Must-Haves
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the title About me on the top center of the page
+  - _There's a little introduction about John_
+
+### Should-Haves
+
+- [ ] As a user I want to see the Navbar on the top right of the page
+  - _There's a navbar bar to navigate to the three pages_
+
+### Could-Haves
+
+- [ ] As a user I want to see 6 cards about John's hobbies, career, current
+      professional-role, languages spoken, education background.
+  - _There's John's social Media links under the 6cards_
+
+## Contact me page
+
+### Must-Haves
+
+- [ ] As a user I want to see the title Contact me on the top center of the page
+  - _There's a contact form for John_
+
+### Should-Haves
+
+- [ ] As a user I want to see the Navbar on the top right of the page
+  - _There's a navbar bar to navigate to the three pages_
+
+### Could-Haves
+
+- [ ] As a user I want to see email, telephone and location or where he study
+      and
+- city where he lives.
+  - _There's John's social Media links under the forms_
