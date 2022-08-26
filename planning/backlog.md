@@ -1,8 +1,6 @@
 # Backlog
 
-## Home Page
-
-### Portfolio Section
+## Portfolio page
 
 ### Must-Haves
 
@@ -19,12 +17,12 @@
 - [ ] As a user I want to see the introduction about John and his profession.
   - _There's John career picture central-right of the page_
 
-## About me section
+## About page
 
 ### Must-Haves
 
 - [ ] As a user I want to see the title About me on the top center of the page
-  - _There's an introduction about John_
+  - _There's a little introduction about John_
 
 ### Should-Haves
 
@@ -33,11 +31,11 @@
 
 ### Could-Haves
 
-- [ ] As a user I want to see information about John's hobbies, career, current
+- [ ] As a user I want to see 6 cards about John's hobbies, career, current
       professional-role, languages spoken, education background.
   - _There's John's social Media links under the 6cards_
 
-## Contact me section
+## Contact me page
 
 ### Must-Haves
 
@@ -47,10 +45,11 @@
 ### Should-Haves
 
 - [ ] As a user I want to see the Navbar on the top right of the page
-  - _There's a navbar bar to navigate to the other pages_
+  - _There's a navbar bar to navigate to the three pages_
 
 ### Could-Haves
 
-- [ ] As a user I want to see email, telephone and address of city where he
-      lives.
-  - _There's John's social Media links under the forms and address_
+- [ ] As a user I want to see email, telephone and location or where he study
+      and
+- city where he lives.
+  - _There's John's social Media links under the forms_
